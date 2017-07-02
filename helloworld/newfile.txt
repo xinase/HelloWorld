@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 921F-0263
+
+ Directory of C:\Users\xinz\Documents\helloworld
+
+07/02/2017  02:30 PM    <DIR>          .
+07/02/2017  02:30 PM    <DIR>          ..
+07/02/2017  02:30 PM                 0 newfile.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  153,615,876,096 bytes free
